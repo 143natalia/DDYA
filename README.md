@@ -12,3 +12,7 @@ En la carpeta encontrarán solo dos archivos, debido al hecho de que no logré p
 Tampoco conseguí terminar la primera parte, especificamente lo relacionado a los números primos. Mis soluciones fueron hechas con cadenas de ifs y un if dentro de un while loop.
 El diseño del diagrama de flujo se basa en la explicación de clase hoy.Aún así, no estaba segura de como representar un loop while.
 
+# Semana 2
+Respuesta a los ejercicios sobre analisis asintotico. En esta carpeta se encuentran 2 archivos:
+1. Un archivo doc con las respuestas del punto 1 (ordenar las funciones en orden de complejidad de menor a mayor) y el 2 (determinar función n para los codigos)
+2. Un archivo .py con el punto 3, un insertion sort que organiza en orden descendente. Incluye un arreglo de prueba y un print para ver el resultado
