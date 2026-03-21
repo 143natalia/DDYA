@@ -23,12 +23,14 @@ Respuesta a los ejercicios sobre analisis asintotico. En esta carpeta se encuent
 Una forma de organizar datos de forma jerarquica, no lineal, donde los recorridos a traves de los datos se hace de forma recursiva.
 Dos actividades fueron desarrolladas está semana:
 1) Un taller con 5 actividades donde se aplica los varios usos y posibilidades con los arboles binarios
-2) El laboratorio de la semana pasada, ahora utilizando esta estructura en vez de pilas y colas. Este consiste en crear un sistema de atención medica donde se agregan pacientes en dos categorias (Normales y Críticos) en su orden de llegada, y luego ser atendidos según su caso y orden.
+2) El laboratorio de la semana pasada, ahora utilizando esta estructura en vez de pilas y colas. Este consiste en crear un sistema de atención medica donde se
+
+agregan pacientes en dos categorias (Normales y Críticos) en su orden de llegada, y luego ser atendidos según su caso y orden.
 En ambos programas se hace uso de los metodos para crear la clase de los nodos que conforman el árbol, insertar valores en un árbol binario (ya sea crear el árbol desde cero o inserción de nuevos datos) y algún metodo para recorrerlo (inorder, postorder o preorder).
 Honestamente, no se incluye el uso de rotaciones en caso de árboles AVL.
 
 En la carpeta semana 8, se encuentran los diguientes archivos:
-1)Carpeta de imagenes enlazadas a la plantilla de Jupyter Notebook
-2)Jupyter Notebook con diagramas de flujo, secuencia, casos de uso, requerimientos, analizis de complejidad, y codigo
-3)Archivo python con el codigo
+1) Carpeta de imagenes enlazadas a la plantilla de Jupyter Notebook
+2) Jupyter Notebook con diagramas de flujo, secuencia, casos de uso, requerimientos, analizis de complejidad, y codigo
+3) Archivo python con el codigo
 Aparte, hay un archivo python con el codigo a la solución de los problemas con las computadoras.
