@@ -32,5 +32,4 @@ En la carpeta semana 8, se encuentran los diguientes archivos:
 1) Carpeta de imagenes enlazadas a la plantilla de Jupyter Notebook
 2) Jupyter Notebook con diagramas de flujo, secuencia, casos de uso, requerimientos, analizis de complejidad, y codigo
 3) Archivo python con el codigo
-
-Aparte, hay un archivo python con el codigo a la solución de los problemas con las computadoras.
+4) archivo python con el codigo a la solución de los problemas con las computadoras.
