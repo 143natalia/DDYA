@@ -56,9 +56,11 @@ def modificar_grafo(bodegas, rutas):
 def agregar_arista(bodegas, u, v):
     if u == v:
         bodegas[u].append(v)
-    else:
-        bodegas[u].append(v)
+    if u not in bodegas[v]:
         bodegas[v].append(u)
+    if v not in bodegas[u]:
+        bodegas[u].append(v)
+        
 
 def lista_adjacencia(aristas, bodegas):
     for u, v in aristas:
